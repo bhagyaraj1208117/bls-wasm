@@ -1,0 +1,30 @@
+{
+  "name": "@bhagyaraj_1208117/sdk-bls-wasm",
+  "version": "0.3.3",
+  "description": "BLS signature for Node.js by WebAssembly",
+  "main": "bls.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagyaraj1208117/bls-wasm.git"
+  },
+  "keywords": [
+    "'BLS signature'",
+    "WebAssembly",
+    "pairing"
+  ],
+  "author": "Robin",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bhagyaraj1208117/bls-wasm/issues"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "homepage": "https://github.com/bhagyaraj1208117/bls-wasm#readme",   
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
